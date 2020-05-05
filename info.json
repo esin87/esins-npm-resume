@@ -1,0 +1,19 @@
+{
+	"name": "Esin Saribudak",
+	"website": "https://esinsaribudak.com",
+	"linkedin": "https://www.linkedin.com/in/esinsaribudak/",
+	"github": "esin87",
+	"email": "esin.saribudak@generalassemb.ly",
+	"resume": "https://esinsaribudak.com/images/esinsaribudak-resume.pdf",
+	"proficientTechnologies": [
+		"Javascript",
+		"React",
+		"Node",
+		"Express",
+		"Mongodb",
+		"PostgreSQL",
+		"Python",
+		"Django"
+	],
+	"otherSkills": ["Design", "Piano"]
+}
